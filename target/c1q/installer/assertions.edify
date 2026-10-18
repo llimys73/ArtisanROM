@@ -1,0 +1,1 @@
+is_substring("N981NKS", getprop("ro.boot.bootloader")) || is_substring("N9810ZH", getprop("ro.boot.bootloader")) || is_substring("N9810ZC", getprop("ro.boot.bootloader")) || abort("E3002: This package only supports the unlockable Galaxy Note 20 (Snapdragon) variants SM-N981N and SM-N9810.");

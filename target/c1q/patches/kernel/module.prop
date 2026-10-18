@@ -1,0 +1,4 @@
+id=kernel
+name=Kernel
+author=pascua28, ata-kaner
+description=UN1CA SM8250 kernel built for c1q as default ROM kernel.
